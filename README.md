@@ -60,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0057-insert-interval](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0057-insert-interval/) | Medium |
 <!---LeetCode Topics End-->
