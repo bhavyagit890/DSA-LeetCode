@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +76,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
