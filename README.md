@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
