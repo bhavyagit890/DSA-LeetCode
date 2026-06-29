@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0695-max-area-of-island](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +184,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
