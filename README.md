@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0079-word-search](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0079-word-search/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Greedy
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -175,4 +179,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0079-word-search/) | Medium |
+| [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
