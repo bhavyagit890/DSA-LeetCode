@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0079-word-search/) | Medium |
+| [0394-decode-string](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0394-decode-string](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -185,4 +187,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
