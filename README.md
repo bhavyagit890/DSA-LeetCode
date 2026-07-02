@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0542-01-matrix](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0542-01-matrix/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0542-01-matrix](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0542-01-matrix](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/bhavyagit890/DSA-LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Recursion
